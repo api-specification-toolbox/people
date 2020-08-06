@@ -1,0 +1,37 @@
+---
+layout: default
+title: Service peoples
+---
+
+<h1>People</h1>
+<p>This is a list of people are doing interesting things with OpenAPI, AsyncAPI, JSON Schema, and Postman Collections, organized as part of <a href="https://github.com/oai-demandgen/home" target="_blank">OpenAPI demand generation efforts</a>.</p>
+{% assign peoples = site.data.people %}
+<center>
+<hr>
+<table width="90%" cellpadding="10" cellspacing="10">
+{% for people in peoples %}
+	<tr>
+		<td align="center"><img src="{{ people.image }}" width="100"></td>
+		<td align="left">
+			<p><strong>{{ people.name }}</strong> - {{ people.description }}s</p>
+			<p><strong>Tags:</strong> {% for tasg in people.tags %}{{ tag }}{% if forloop.last == false %}, {% endif %}{% endfor %}</strong></p>
+		</td>
+		<td align="center" width="10%">
+			<a href="{{ people.url }}" target="_blank">Website</a>
+		</td>
+		<td align="center" width="10%">
+			<a href="https://github.com/{{ people.github }}" target="_blank">Github</a>
+		</td>
+		<td align="center" width="10%">
+			<a href="https://twitter.com/{{ people.twitter }}" target="_blank">Twitter</a>
+		</td>
+	</tr>
+{% endfor %}
+</table>
+<hr>
+</center>
+<br>
+<p>If you have any questions, comments, or suggestions for people, please <a href="https://github.com/oai-demandgen/people/issues" target="_blank">leave an issue on the GitHub repository for this project</a>, or feel free to submit a pull request.</p>
+<br>
+<p align="center"><strong>This work is sponsored by Postman as part of their support of the OpenAPI</strong></p>
+<p align="Center"><img src="https://camo.githubusercontent.com/dd25bafd630b34a755004401b4fc08a33167f411/68747470733a2f2f6b696e6c616e652d70726f64756374696f6e732e73332e616d617a6f6e6177732e636f6d2f6f70656e6170692f706f73746d616e2d6f70656e6170692d746f6765746865722e706e67" width="50%"></p>
