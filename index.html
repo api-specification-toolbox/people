@@ -11,7 +11,7 @@ title: Service peoples
 <table width="90%" cellpadding="10" cellspacing="10">
 {% for people in peoples %}
 	<tr>
-		<td align="center"><img src="{{ people.image }}" width="100"></td>
+		<td align="center"><img src="/{{ site.github_repo }}/{{ people.image }}" width="100"></td>
 		<td align="left">
 			<p><strong>{{ people.name }}</strong> - {{ people.description }}s</p>
 			<p><strong>Tags:</strong> {% for tasg in people.tags %}{{ tag }}{% if forloop.last == false %}, {% endif %}{% endfor %}</strong></p>
