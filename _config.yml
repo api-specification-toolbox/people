@@ -1,11 +1,11 @@
-title: Service Providers
-url: https://oai-demandgen.github.io/service-providers/
+title: People
+url: https://oai-demandgen.github.io/people/
 
 github_user: oai-demandgen
-github_repo: service-providers
+github_repo: people
 github_branch: master
 
-version:      1.1.1
+version:      1.1.2
 author:
   name:       'Kin Lane'
   email:      'info@apievangelist.com'
