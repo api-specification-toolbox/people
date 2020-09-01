@@ -12,4 +12,4 @@ People in the community actively talking about OpenAPI (for example, people usin
 ## Level Three
 People who've mentioned what they are doing, but not much more.
 
-You can view the current listing here: [https://oai-demandgen.github.io/people/](https://api-specification-toolbox.github.io/people/)
+You can view the current listing here: [https://api-specification-toolbox.github.io/people/](https://api-specification-toolbox.github.io/people/)
