@@ -1,5 +1,5 @@
 # People
-This is a list of people who know about OpenAPI, AsymcAPI, JSON Schema, Postman Collections, APIs.json, and other API specifications.
+This is a list of people who know about OpenAPI, AsyncAPI, JSON Schema, Postman Collections, APIs.json, and other API specifications.
 
 ## Level One
 People directly connected with API specifications:
