@@ -2,7 +2,7 @@
 This is a list of people who know about OpenAPI, AsymcAPI, JSON Schema, Postman Collections, APIs.json, and other API specifications.
 
 ## Level One
-People directly connection with API specifications:
+People directly connected with API specifications:
 
 - **Baljeet Malhotra** - [Twitter](https://twitter.com/BaljeetMalhotra)
 - **Ben Hutton** - [Twitter](https://twitter.com/relequestual)
@@ -40,6 +40,7 @@ People directly connection with API specifications:
 ## Level Two
 People in the community actively talking about API Specifications (for example, people using OAS for their work where that work is not the OAS itself - the consumers).
 
+- **Allen Helton** - [Twitter](https://twitter.com/allenheltondev)
 - **Mehdi Medjaoui** - [Twitter](https://twitter.com/medjawii)
 - **Arnaud Lauret** - [Twitter](https://twitter.com/arno_di_loreto)
 - **Shelby Switzer** - [Twitter](https://twitter.com/switzerly)
