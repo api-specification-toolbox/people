@@ -44,6 +44,7 @@ People in the community actively talking about API Specifications (for example, 
 - **Arnaud Lauret** - [Twitter](https://twitter.com/arno_di_loreto)
 - **Shelby Switzer** - [Twitter](https://twitter.com/switzerly)
 - **Mandy Whaley** - [Twitter](https://twitter.com/mandywhaley)
+- **Lorinda Brandon** - [Twitter](https://twitter.com/lindybrandon)
 
 
 ## Level Three
