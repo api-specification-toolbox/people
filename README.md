@@ -47,6 +47,7 @@ People in the community actively talking about API Specifications (for example, 
 - **Mandy Whaley** - [Twitter](https://twitter.com/mandywhaley)
 - **Nuwan Dias** - [Twitter](https://twitter.com/nuwandias)
 - **Lorinda Brandon** - [Twitter](https://twitter.com/lindybrandon)
+- **Adam Warski** - [Twitter](https://twitter.com/adamwarski)
 
 ## Level Three
 People who've mentioned what they are doing, but not much more.
