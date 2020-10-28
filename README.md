@@ -46,11 +46,11 @@ People in the community actively talking about API Specifications (for example, 
 - **Shelby Switzer** - [Twitter](https://twitter.com/switzerly)
 - **Mandy Whaley** - [Twitter](https://twitter.com/mandywhaley)
 - **Nuwan Dias** - [Twitter](https://twitter.com/nuwandias)
-
+- **Lorinda Brandon** - [Twitter](https://twitter.com/lindybrandon)
 
 ## Level Three
 People who've mentioned what they are doing, but not much more.
 
-- Will Be Curating Based Upon Twitter Hashtag
+- Will Be Curating Based Upon Twitter Hashtag - Looking to cureate new faces / personalities.
 
 I will keep curating this as the README for now, but at some point I'll switch to be YAML, so we can track other relevant meta data, and use and distribute across the space.
