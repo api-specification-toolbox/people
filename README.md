@@ -36,6 +36,7 @@ People directly connected with API specifications:
 - **Taylor Barnett** - [Twitter](https://twitter.com/taylor_atx)
 - **Tanya Vladic** - [Twitter](https://twitter.com/latestfromtv)
 - **Ted Epstein** - [Twitter](https://twitter.com/tedepstein)
+- **Kévin Dunglas** - [Twitter](https://twitter.com/dunglas)
 
 ## Level Two
 People in the community actively talking about API Specifications (for example, people using OAS for their work where that work is not the OAS itself - the consumers).
