@@ -49,6 +49,7 @@ People in the community actively talking about API Specifications (for example, 
 - **Nuwan Dias** - [Twitter](https://twitter.com/nuwandias)
 - **Lorinda Brandon** - [Twitter](https://twitter.com/lindybrandon)
 - **Adam Warski** - [Twitter](https://twitter.com/adamwarski)
+- **Dmitry Sotnikov** - [Twitter](https://twitter.com/DSotnikov) / [@apisecurityio](https://twitter.com/apisecurityio)
 
 ## Level Three
 People who've mentioned what they are doing, but not much more.
