@@ -69,6 +69,7 @@ People in the community actively talking about API Specifications (for example, 
 - **Shelby Switzer** - [switzerly](https://twitter.com/switzerly)
 - **Tim Burks** - [timburks](https://twitter.com/timburks)
 - **William Cheng** - [wing328](https://twitter.com/wing328)
+- **Ilona Koren-Deutsch** - [nitsekees](https://twitter.com/nitsekees)
 
 ## Level Three
 People who've mentioned what they are doing, but not much more.
