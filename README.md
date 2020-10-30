@@ -39,29 +39,40 @@ People directly connected with API specifications:
 - **Taylor Barnett** - [taylor_atx](https://twitter.com/taylor_atx)
 - **Tanya Vladic** - [latestfromtv](https://twitter.com/latestfromtv)
 - **Ted Epstein** - [tedepstein](https://twitter.com/tedepstein)
+- **Uri Sarid** - [usarid](https://twitter.com/usarid)
 
 ## Level Two
 People in the community actively talking about API Specifications (for example, people using OAS for their work where that work is not the OAS itself - the consumers).
 
 - **Adam Warski** - [adamwarski](https://twitter.com/adamwarski)
+- **Aidan Cunniffe** - [aidandcunniffe](https://twitter.com/aidandcunniffe)
 - **Allen Helton** - [allenheltondev](https://twitter.com/allenheltondev)
 - **AmancioBouza** - [AmancioBouza](https://twitter.com/AmancioBouza)
 - **Andrew Jenkinson** - [a_jenkinson](https://twitter.com/a_jenkinson)
 - **Arnaud Lauret** - [arno_di_loreto](https://twitter.com/arno_di_loreto)
+- **Bruno Pedro** - [bpedro](https://twitter.com/bpedro)
 - **Chris Williams** - [Scampiuk](https://twitter.com/Scampiuk)
+- **Erik Wilde** - [dret](https://twitter.com/dret)
+- **Ivan Goncharov** - [e1goncharov](https://twitter.com/e1goncharov)
+- **Jason Harmon** - [jharmn](https://twitter.com/jharmn)
+- **Jeremy Whitlock** - [whitlockjc](https://twitter.com/whitlockjc)
 - **Jim Schubert** - [jimschubert](https://twitter.com/jimschubert)
 - **Lorinda Brandon** - [lindybrandon](https://twitter.com/lindybrandon)
-- **Jason Judge** - [twitter](https://twitter.com/JasonDJudge)
+- **Jason Judge** - [JasonDJudge](https://twitter.com/JasonDJudge)
+- **Jim Schubert** - [jimschubert](https://twitter.com/jimschubert)
 - **Mandy Whaley** - [mandywhaley](https://twitter.com/mandywhaley)
+- **M𝕒𝕥𝕥𝕙𝕖𝕨 R𝕖𝕚𝕟𝕓𝕠𝕝𝕕** - [libel_vox](https://twitter.com/libel_vox)
 - **Mehdi Medjaoui** - [medjawii](https://twitter.com/medjawii)
 - **Nuwan Dias** - [nuwandias](https://twitter.com/nuwandias)
 - **Olivier Mengué** - [omengue](https://twitter.com/omengue)
+- **Rob Dolin** - [robdolin](https://twitter.com/robdolin)
 - **Shelby Switzer** - [switzerly](https://twitter.com/switzerly)
+- **Tim Burks** - [timburks](https://twitter.com/timburks)
 - **William Cheng** - [wing328](https://twitter.com/wing328)
 
 ## Level Three
 People who've mentioned what they are doing, but not much more.
 
-- Will Be Curating Based Upon Twitter Hashtag - Looking to cureate new faces / personalities.
+- Will Be Curating Based Upon Twitter Hashtag - Looking to curate new faces / personalities.
 
 I will keep curating this as the README for now, but at some point I'll switch to be YAML, so we can track other relevant meta data, and use and distribute across the space.
