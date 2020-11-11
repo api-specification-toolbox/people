@@ -52,6 +52,7 @@ People in the community actively talking about API Specifications (for example, 
 - **Arnaud Lauret** - [arno_di_loreto](https://twitter.com/arno_di_loreto)
 - **Bruno Pedro** - [bpedro](https://twitter.com/bpedro)
 - **Chris Williams** - [Scampiuk](https://twitter.com/Scampiuk)
+- **Christophe Bornet** - [cbornet_](https://twitter.com/cbornet_)
 - **Erik Wilde** - [dret](https://twitter.com/dret)
 - **Ivan Goncharov** - [e1goncharov](https://twitter.com/e1goncharov)
 - **Jason Harmon** - [jharmn](https://twitter.com/jharmn)
