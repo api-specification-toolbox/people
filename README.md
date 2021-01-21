@@ -71,8 +71,10 @@ People in the community actively talking about API Specifications (for example, 
 - **William Cheng** - [wing328](https://twitter.com/wing328)
 
 ## Level Three
-People who've mentioned what they are doing, but not much more.
+People who've mentioned what they are doing with specifications, but not much more.
 
 - Will Be Curating Based Upon Twitter Hashtag - Looking to curate new faces / personalities.
 
-I will keep curating this as the README for now, but at some point I'll switch to be YAML, so we can track other relevant meta data, and use and distribute across the space.
+I will keep curating this as the README for now, but at some point I'll switch to be YAML on the [API Specification Toolbox](http://api.specificationtoolbox.com/), so we can track other relevant meta data, and use and distribute across the space.
+
+We are using this README to manage this project, and Github issues to manage the conversation and all of the work that occurs around defining all of the areas of this work. If you have any contributions feel free to submit an issue or a pull request on this project, or any other in the API Specification toolbox, including the toolbox itself.
